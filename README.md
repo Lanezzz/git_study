@@ -1,3 +1,3 @@
 # git_study
 
-Hello！
+Hello World！
